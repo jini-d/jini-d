@@ -1,16 +1,29 @@
-## Hi there 👋
+### hi, i'm jini 👋
 
-<!--
-**jini-d/jini-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> music → publishing → frontend
 
-Here are some ideas to get you started:
+음악을 전공하고, 퍼블리싱을 거쳐, 지금은 코드로 이야기합니다.  
+*Started in music, moved through publishing, now building with code.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🛠 Tech Stack**
+
+![React](https://img.shields.io/badge/React-E6F1FB?style=flat-square&logo=react&logoColor=0C447C)
+![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat-square&logo=typescript&logoColor=0C447C)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-EEEDFE?style=flat-square&logo=tailwindcss&logoColor=3C3489)
+![shadcn](https://img.shields.io/badge/shadcn/ui-EEEDFE?style=flat-square&logoColor=3C3489)
+![TanStack](https://img.shields.io/badge/TanStack-E1F5EE?style=flat-square&logoColor=085041)
+![Highcharts](https://img.shields.io/badge/Highcharts-FAEEDA?style=flat-square&logoColor=633806)
+![Leaflet](https://img.shields.io/badge/Leaflet-FAEEDA?style=flat-square&logo=leaflet&logoColor=633806)
+
+---
+
+**🌱 Currently**
+- 신재생에너지 대시보드 개발 중 (React + TypeScript)
+- 포트폴리오 사이트 제작 중
+
+---
+
+**📬 Contact**  
+📧 hyeonjingold@gmail.com
