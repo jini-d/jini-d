@@ -9,6 +9,11 @@
 
 **🛠 Tech Stack**
 
+
+![HTML5](https://img.shields.io/badge/HTML5-FAECE7?style=flat-square&logo=html5&logoColor=993C1D)
+![CSS3](https://img.shields.io/badge/CSS3-E6F1FB?style=flat-square&logo=css3&logoColor=185FA5)
+![SCSS](https://img.shields.io/badge/SCSS-FBEAF0?style=flat-square&logo=sass&logoColor=993556)
+![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat-square&logo=javascript&logoColor=633806)
 ![React](https://img.shields.io/badge/React-E6F1FB?style=flat-square&logo=react&logoColor=0C447C)
 ![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat-square&logo=typescript&logoColor=0C447C)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-EEEDFE?style=flat-square&logo=tailwindcss&logoColor=3C3489)
